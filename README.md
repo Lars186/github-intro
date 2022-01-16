@@ -1,3 +1,3 @@
 # try-out
 
-This repo is for me for learning git. nice!
+This repo is for me for learning git. Cool!
